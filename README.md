@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 Simple graphical Tic-Tac-Toe for your browser written in pure HTML, JavaScript, and CSS.
+
 Check out the live site here: https://amin-codes.github.io/Tic-Tac-Toe/src/index.html
 # Screenshots From One Game
 
